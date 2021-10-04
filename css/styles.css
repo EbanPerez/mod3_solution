@@ -68,8 +68,7 @@ p {
 @media (min-width: 768px) {
     .column-drop-css{
         grid-template-columns: repeat(3, 1fr);
-        
-    }
+      }
     .primera{
         grid-column: 2 / 3;
         grid-row: unset;
@@ -78,5 +77,4 @@ p {
         grid-column: 3 / 4;
         grid-row: unset;
     }
- 
-}
+ }
