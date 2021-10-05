@@ -1,2 +1,2 @@
-# mod3_solution
-Homework3
+# Module-3-Coding-Assignment
+Module 3 Coding Assignment
